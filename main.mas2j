@@ -1,0 +1,10 @@
+MAS jacamo_project {
+
+    infrastructure: Centralised
+
+    environment: CartagoEnvironment
+
+    agents:
+        robot agent.asl
+
+}
